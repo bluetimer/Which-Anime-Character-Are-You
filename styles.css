@@ -1,0 +1,24 @@
+body{
+ font-family: 'Patrick Hand', cursive;
+ color:white;
+ background-image:url(https://backgroundcheckall.com/wp-content/uploads/2017/12/star-wars-galaxy-background.jpg);
+ text-align: center;
+}    
+img{
+ width:300px;
+ height:300px;
+}
+
+
+button {
+    height: 50px;
+    width: 150px;
+    background-color: red;
+    border: 2px solid white;
+    border-radius: 3px;
+    font-weight: bold;
+}
+/* add # to hide/show content */
+#hidden > div {
+ display:none;
+}
